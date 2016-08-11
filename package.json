@@ -1,0 +1,19 @@
+{
+  "name": "webrtc-experimental",
+  "version": "0.1.0",
+  "description": "VideoChat Project using WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czarnega/webRTC-experimental.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czarnega/webRTC-experimental/issues"
+  },
+  "homepage": "https://github.com/czarnega/webRTC-experimental#readme"
+}
